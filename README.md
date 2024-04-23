@@ -8,7 +8,7 @@ Testes funcionais e não funcionais.
 Testes manuais.
 Rastreamento de bugs.
 Relatórios de bug.
-Teste de API (carteiro).
+Teste de API (Postman).
 Teste de GUI.
 SQL.
 Conhecimento com linguagem de programação JSON.
